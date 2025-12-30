@@ -56,6 +56,14 @@ The application uses a **Hybrid Architecture** combining the speed of a Node.js 
 
 ---
 
+## 🧪 Quick Test Credentials
+
+To preview the application without creating a new account, you can use the following live testing credentials:
+
+- **Email**: `livetest@IMX.com`
+- **Password**: `LiveTest2026!`
+
+---
 
 ## 🔒 Security & Performance
 - **Production-Ready Logging**: Centralized error tracking with Winston.
